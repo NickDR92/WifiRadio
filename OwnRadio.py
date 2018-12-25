@@ -1,7 +1,7 @@
 ﻿'''
 	Author:		Nick De Raeve (Belgium)
 	Date:		24/06/2018
-	Title:		Internet radio
+	Title:		WiFi radio
 	Description:
 		This file contains the code necessary in order to program any raspberry pi to function
 			as a internet radio (streaming radio). This project requires a rotary encoder
