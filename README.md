@@ -1,4 +1,4 @@
-# WifiRadio
+# Wifi Radio
 This project contains all the python files to make a ethernet radio with a Raspberry Pi and a 20W amplifier from adafruit.
 
 I bought the amplifier from adafruit and used there python code to install all the necessary libraries and some example code. 
